@@ -19,13 +19,13 @@ $ pkg install python2 -y
 $ pkg install git -y
 ```
 ```
-$ git clone https://github.com/legend-and-criminal-boyz/atom
+$ git clone https://github.com/legend-and-criminal-boyz/lacphiser
 ```
 ```
 $ apt install git curl php openssh -y
 ```
 ```
-$ cd atom
+$ cd lacphiser
 ```
 ```
 $ unzip lacphiser.zip
@@ -38,7 +38,7 @@ $ bash lacphiser.sh
 
 * You can select any option by clicking on your keyboard
 
-* Note:- Don't delete any of the scripts included in lol file
+* Note:- Don't delete any of the scripts included in lac file
 
 # ?? ***More***:
 
