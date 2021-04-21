@@ -1,4 +1,4 @@
-### ?? ***Boom is available for***:
+### ?? ***Phiser is available for***:
 
 * Termux
 
@@ -38,7 +38,7 @@ $ bash lacphiser.sh
 
 * You can select any option by clicking on your keyboard
 
-* Note:- Don't delete any of the scripts included in lac file
+* Note:- Don't delete any of the scripts included in phiser file
 
 # ?? ***More***:
 
@@ -49,10 +49,10 @@ __Save__ :
 - From this option you can repair damaged device of your victm from that virus by just installing this anti-virus in his device.
 
 __Update__ :
-- From this option you can update the boom script.
+- From this option you can update the lacphiser script.
 
 __Exit__ :
-- From this option you can exit from boom tool 
+- From this option you can exit from lacphiser tool 
 
 
 
